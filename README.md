@@ -1,63 +1,78 @@
-<h1 align="center">Hi 👋, I'm Header 54</h1>
-<h3 align="center">Cyber Security Learner | Ethical Hacker</h3>
+<h1 align="center">I'm Header 54</h1>
+<h3 align="center">Cyber Security Learner</h3>
+
+---
+
+# 👨‍💻 WHO AM I ?
+
+I am a Cyber Security learner specialized in Ethical Hacking and Web Security.
+
+🔐 Cyber Security Learner  
+💻 Web Developer  
+🚀 Passionate about hacking & security  
+🎯 Goal: Cyber Security Expert  
+
+---
+
+# 🚀 MY SKILLS
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Ethical+Hacker;Web+Security+Enthusiast;Always+Learning+New+Things" />
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🔥 ADDITIONAL SKILLS
 
-🔐 Cyber Security Learner  
-💻 Web Developer  
-🎯 Goal: Cyber Security Expert  
-🌱 Currently Learning Ethical Hacking  
-
----
-
-## 🛠️ Skills
-
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Cyber Security](https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge&logo=hackthebox)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+✔ Ethical Hacking  
+✔ Web Security  
+✔ Networking  
+✔ Cyber Security  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 MY STATS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=header-54&show_icons=true&theme=chartreuse-dark)
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=header-54&theme=chartreuse-dark)
-
----
-
-## 📈 Top Languages
+# 📈 TOP LANGUAGES
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=header-54&layout=compact&theme=chartreuse-dark)
 
 ---
 
-## 🐍 Contribution Snake
+# 🚀 PROJECTS
+
+🔐 Cyber Security Tools  
+🌐 Portfolio Website  
+🛡️ Security Projects  
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 ![Snake animation](https://github.com/header-54/header-54/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🌐 Connect With Me
+# 📬 LET'S HAVE A CHAT
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/header-54)
+📧 Email: am.soutt@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/amitmaity54  
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ FUN FACT
 
-🔐 I love Cyber Security  
+💻 I love Cyber Security  
 🚀 Always Learning  
-💻 Building Projects
+🔐 Security First
