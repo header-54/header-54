@@ -1,78 +1,43 @@
-<h1 align="center">I'm Amit Maity</h1>
-<h3 align="center">Cyber Security Learner</h3>
-
----
-
-# 👨‍💻 WHO AM I ?
-
-I am a Cyber Security learner specialized in Ethical Hacking and Web Security.
-
-🔐 Cyber Security Learner  
-💻 Web Developer  
-🚀 Passionate about hacking & security  
-🎯 Goal: Cyber Security Expert  
-
----
-
-# 🚀 MY SKILLS
+<h1 align="center">
+Hi 👋 <span style="color:#00FFAA;">I'm</span> 
+<span style="color:#00FF00;">Amit Maity</span>
+</h1>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Ethical+Hacking+Enthusiast;Future+Cyber+Security+Expert" />
 </p>
 
 ---
 
-# 🔥 ADDITIONAL SKILLS
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
+</p>
 
-✔ Ethical Hacking  
-✔ Web Security  
-✔ Networking  
-✔ Cyber Security  
+<p align="center">
+<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="700"/>
+</p>
 
----
-
-# 📊 MY STATS
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=header-54&show_icons=true&theme=chartreuse-dark)
-
----
-
-# 📈 TOP LANGUAGES
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=header-54&layout=compact&theme=chartreuse-dark)
+<p align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="700"/>
+</p>
 
 ---
 
-# 🚀 PROJECTS
+## 🎯 Career Goal
 
-🔐 Cyber Security Tools  
-🌐 Portfolio Website  
-🛡️ Security Projects  
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-![Snake animation](https://github.com/header-54/header-54/blob/output/github-contribution-grid-snake.svg)
+🔐 Build Career in **Cyber Security**  
+🛡️ Focused on **Ethical Hacking & Web Security**  
+🚀 Goal: **Cyber Security Expert**
 
 ---
 
-# 📬 LET'S HAVE A CHAT
+## 📬 Contact Me
 
-📧 Email: am.soutt@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/amitmaity54  
+📧 Email: **am.soutt@gmail.com**  
+💼 LinkedIn: **www.linkedin.com/in/amitmaity54**
 
 ---
 
-# ⚡ FUN FACT
-
-💻 I love Cyber Security  
-🚀 Always Learning  
-🔐 Security First
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:020617&height=120&section=footer"/>
+</p>
