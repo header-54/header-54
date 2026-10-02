@@ -8,7 +8,8 @@
 
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQzZGg0azBmMjQzb3EwcXZmdHgyemdtdWZzOGJqdDFsaDh5aTJyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0CLT1GgrPCw5OIve/giphy.gif"
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWExZTA4MHBseGk5dmozaHJycmZrZmtwYW05b25jM29obWdqM2s0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"
+     width="600"
      alt="Cyber Security Animation">
 
 </div>
