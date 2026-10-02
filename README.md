@@ -2,11 +2,11 @@
 
 # 🛡️ Hi, I'm Amit Maity
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Aspiring+Cyber+Security+Professional;Ethical+Hacking+Learner;Web+Security+Enthusiast;Penetration+Testing+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Aspiring+Cyber+Security+Professional;Ethical+Hacking+Learner;Web+Security+Enthusiast;Penetration+Testing+Learner;Always+Learning+New+Things" alt="Typing SVG">
 
 <br><br>
 
-<img src="https://media.giphy.com/media/lo5HLcAPFSgTZNTpAn/giphy.gif" width="700" alt="Cyber Security Animation" />
+<img src="https://i.giphy.com/lo5HLcAPFSgTZNTpAn.gif" width="700" alt="Cyber Security Animation">
 
 <br><br>
 
@@ -18,11 +18,11 @@
 
 ## 🛡️ About Me
 
-Hi, I'm **Amit Maity**, an aspiring **Cyber Security professional** interested in understanding how systems, networks, and web applications work from a security perspective.
+Hi, I'm **Amit Maity**, an aspiring **Cyber Security professional** with a strong interest in understanding how systems, networks, and web applications work from a security perspective.
 
-I'm currently building my practical skills through **hands-on labs, CTF challenges, security tools, and real-world cybersecurity concepts**.
+I'm currently focused on building practical cybersecurity skills through **hands-on labs, CTF challenges, security tools, and real-world security concepts**.
 
-My main areas of interest are **Penetration Testing, Web Application Security, Network Security, and Security Operations**.
+My main areas of interest include **Penetration Testing, Web Application Security, Network Security, and Security Operations**.
 
 ---
 
@@ -47,28 +47,28 @@ My main areas of interest are **Penetration Testing, Web Application Security, N
 
 ### 🔎 Security & Pentesting
 
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
-<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00">
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=00FF00">
+<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF0000">
 
 <br><br>
 
 ### 💻 Programming & Development
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4">
 
 <br><br>
 
 ### 🌐 Networking & Security Operations
 
-<img src="https://img.shields.io/badge/CCNA-000000?style=for-the-badge&logo=cisco&logoColor=00BCEB" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=65A637" />
-<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/CCNA-000000?style=for-the-badge&logo=cisco&logoColor=00BCEB">
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=65A637">
+<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logoColor=00FF00">
 
 </div>
 
@@ -225,9 +225,9 @@ REPEAT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=header-54&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=header-54&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="180" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=header-54&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=header-54&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="180" alt="Top Languages">
 
 </div>
 
@@ -238,11 +238,11 @@ REPEAT
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amitmaity54">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn">
 </a>
 
 <a href="mailto:am.soutt@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email">
 </a>
 
 </div>
@@ -255,7 +255,7 @@ REPEAT
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=header-54&style=for-the-badge&color=00FF00&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=header-54&style=for-the-badge&color=00FF00&label=PROFILE+VIEWS" alt="Profile Views">
 
 <br><br>
 
