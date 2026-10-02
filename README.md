@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="800"/>
+<img src="https://giphy.com/gifs/SandiaLabs-computer-cyber-lo5HLcAPFSgTZNTpAn" width="800"/>
 </p>
 
 ---
