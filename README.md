@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif"
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM4NTY3bWNxeHRvbWZpdHdxbWw5MHpuYXIwZnR1cWFnNGptNmF2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lo5HLcAPFSgTZNTpAn/giphy.gif"
      width="600"
      alt="Cyber Security Animation">
 
