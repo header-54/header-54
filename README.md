@@ -6,7 +6,9 @@
 
 <br><br>
 
-<img src="https://i.giphy.com/lo5HLcAPFSgTZNTpAn.gif" width="700" alt="Cyber Security Animation">
+<img src="https://i.giphy.com/lo5HLcAPFSgTZNTpAn.gif"
+     width="700"
+     alt="Cyber Security Animation">
 
 <br><br>
 
