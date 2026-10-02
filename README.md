@@ -6,7 +6,13 @@
 
 <br><br>
 
-![Cyber Security Animation](https://i.giphy.com/lo5HLcAPFSgTZNTpAn.gif)
+<div align="center">
+
+<img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif"
+     width="600"
+     alt="Cyber Security Animation">
+
+</div>
 
 <br><br>
 
